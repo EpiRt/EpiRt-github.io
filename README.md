@@ -9,9 +9,9 @@
 - 주관 : 국가수리과학연구소 감염병연구팀
 - 문의 : [epirt@nims.re.kr](https://mail.nims.re.kr:8443/mail/#compose?to=epirt%40nims.re.kr)
 - 사전등록: https://forms.gle/QKDNXFR1Kqm75KDj9
-<img src="QR.png" width="20%" alt="신청 QR">
+<img src="Untitled.png" width="20%" alt="신청 QR">
 
-<img src="Poster.png" width="80%" alt="Poster">
+<img src="Workshop_poster_v2.3.png" width="80%" alt="Poster">
 
 **오시는 길**
 
