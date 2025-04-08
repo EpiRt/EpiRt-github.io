@@ -10,4 +10,4 @@
 - 문의 : [epirt@nims.re.kr](https://mail.nims.re.kr:8443/mail/#compose?to=epirt%40nims.re.kr)
 - 사전등록: https://forms.gle/QKDNXFR1Kqm75KDj9
 
-![신청 QR](설문QR.png)
+![신청 QR](QR.png)
