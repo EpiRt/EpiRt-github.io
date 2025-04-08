@@ -9,3 +9,5 @@
 - 주관 : 국가수리과학연구소 감염병연구팀
 - 문의 : [epirt@nims.re.kr](https://mail.nims.re.kr:8443/mail/#compose?to=epirt%40nims.re.kr)
 - 사전등록: https://forms.gle/QKDNXFR1Kqm75KDj9
+
+![포스터](https://file.notion.so/f/f/742a4b23-0ee9-41e9-a32c-d84c34bbcb60/61664755-3388-42b5-ae8a-962bcb4401d5/workshop_poster_v2.1.pdf?table=block&id=1c13f3d9-0bd4-80ff-b26a-fc525aea0f1e&spaceId=742a4b23-0ee9-41e9-a32c-d84c34bbcb60&expirationTimestamp=1744098524722&signature=ysrSre9ofP55ZKyYw68K8-WXk9tlcjs_62i3UX9WqgA&downloadName=workshop_poster_v2.1.pdf)
