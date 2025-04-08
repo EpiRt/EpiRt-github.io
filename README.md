@@ -9,5 +9,12 @@
 - 주관 : 국가수리과학연구소 감염병연구팀
 - 문의 : [epirt@nims.re.kr](https://mail.nims.re.kr:8443/mail/#compose?to=epirt%40nims.re.kr)
 - 사전등록: https://forms.gle/QKDNXFR1Kqm75KDj9
+<img src="QR.png" width="20%" alt="신청 QR">
 
-![신청 QR](QR.png)
+<img src="Poster.png" width="100%" alt="포스터">
+
+**오시는 길**
+
+주소: 서울 중구 남대문로 9 코트야드 메리어트 서울 남대문 호텔
+
+https://maps.app.goo.gl/tYSJC9TU52sLk7rZ6
