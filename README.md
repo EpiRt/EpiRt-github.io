@@ -11,8 +11,6 @@
 - 사전등록: https://forms.gle/QKDNXFR1Kqm75KDj9
 <img src="QR.png" width="20%" alt="신청 QR">
 
-<img src="Poster.png" width="100%" alt="포스터">
-
 **오시는 길**
 
 주소: 서울 중구 남대문로 9 코트야드 메리어트 서울 남대문 호텔
